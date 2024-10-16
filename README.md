@@ -1,12 +1,20 @@
+Welcome to the Machine Learning Project repository. This repository contains a Google Colab notebook demonstrating the implementation of various machine learning algorithms and techniques. The notebook is designed to be an educational resource that covers the fundamental concepts of machine learning with hands-on code examples.
+
 📂 Repository Overview
-[Notebook_Name].ipynb: This is the core file of the project. It contains the step-by-step guide to build and evaluate machine learning models using popular libraries like TensorFlow, PyTorch, or Scikit-learn.
+lab_1.ipynb: This is the core file of the project. It contains the step-by-step guide to build and evaluate machine learning models using popular libraries like TensorFlow, PyTorch, or Scikit-learn.
 
 Key Highlights:
 
 Data preprocessing techniques
 Model training and evaluation
-Hyperparameter tuning
-Visualization of results
+More Concepts like 
+lab2 Liner regression 
+lab3 Logistic Regression
+lab4 SVM meathods
+lab5 Decisions Trees
+
+
+
 🚀 Getting Started
 To get started with this project, follow the steps below:
 
