@@ -26,7 +26,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/thakreaneesh/Colab-FIles.git
+
 Open the *.ipynb notebook in Google Colab by clicking the link below:
 
 Run the cells in the notebook sequentially to follow along with the project. Make sure to enable GPU/TPU acceleration if required by navigating to Runtime > Change runtime type and selecting the appropriate hardware.
