@@ -43,11 +43,12 @@ Neural Networks and Deep Learning (if applicable)
 We use the [Insert Dataset Name] dataset, available here, for model training and evaluation. The dataset consists of [provide a brief description of the dataset].
 
 📚 Libraries Used
+
 NumPy
 Pandas
-Scikit-learn
-TensorFlow/PyTorch (if applicable)
-Matplotlib / Seaborn for data visualization
+Matplotlib
+TensorFlow/PyTorch 
+
 To install these libraries locally, you can run:
 
 bash
